@@ -9,6 +9,7 @@ import android.provider.MediaStore
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
 import androidx.camera.core.*
+import androidx.camera.core.Camera
 import androidx.camera.lifecycle.ProcessCameraProvider
 import androidx.camera.view.PreviewView
 import androidx.core.app.ActivityCompat
